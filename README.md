@@ -1,2 +1,27 @@
 # LP_test_repo
-our first github repositary 
+## How to run code
+* '''python
+  python first.py 
+  '''
+* Enjoy!
+* [click hear to open google](https://www.google.com/)
+* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
