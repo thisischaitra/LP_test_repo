@@ -3,8 +3,7 @@
 * '''python
   python first.py 
   '''
-* Enjoy!
-* [click hear to open google](https://www.google.com/)
+
 
 
 
