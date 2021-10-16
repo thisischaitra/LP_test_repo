@@ -2,7 +2,7 @@
 ## How to run code
 '''python
   python first.py 
-  '''
+'''
 
 
 
